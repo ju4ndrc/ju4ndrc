@@ -58,3 +58,10 @@
 </div>
 
 ###
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ju4ndrc&show_icons=true&locale=en&layout=compact" alt="ju4ndrc" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ju4ndrc&show_icons=true&locale=en" alt="ju4ndrc" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ju4ndrc&" alt="ju4ndrc" /></p>
