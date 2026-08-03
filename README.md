@@ -15,6 +15,15 @@ Currently, I'm expanding my knowledge through personal and academic projects, co
 </p>
 
 ###
+###
+## 👨‍💻 About Me
+
+- 🎓 Systems Engineering student.
+- 🌱 Always learning new technologies and best practices.
+- 💡 Interested in software development, system design, and problem solving.
+- 🚀 I enjoy building projects that help me improve as a developer.
+- 📚 Constantly exploring different areas of software engineering.
+###
 ## 💻 Technologies I've worked with
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
@@ -59,15 +68,7 @@ Currently, I'm expanding my knowledge through personal and academic projects, co
 </div>
 
 ###
-###
-## 👨‍💻 About Me
 
-- 🎓 Systems Engineering student.
-- 🌱 Always learning new technologies and best practices.
-- 💡 Interested in software development, system design, and problem solving.
-- 🚀 I enjoy building projects that help me improve as a developer.
-- 📚 Constantly exploring different areas of software engineering.
-###
 ###
 ## 🎯 Current Goals
 
@@ -79,26 +80,29 @@ Currently, I'm expanding my knowledge through personal and academic projects, co
 > "Always curious. Always building. Always learning."
 <br clear="both">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
-</div>
 
 ###
-## 🟨 Contribution Graph
+
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ju4ndrc&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Stats"
+  />
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=ju4ndrc&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ju4ndrc&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ju4ndrc&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=ju4ndrc&theme=github-dark&hide_border=true"/>
-
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com?user=ju4ndrc&theme=github-dark&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
