@@ -1,11 +1,21 @@
-<h1 align="center">Hi 👋, I'm Juan David</h1>
+<h1 align="center">
+Hi there! 👋 I'm Juan David
+</h1>
+
+<h3 align="center">
+Systems Engineering Student • Software Developer • Learner
+</h3>
 
 ###
 
-<p align="center">I'm Systems engineering student qualified in full stack development with a solid background in web design, front-end, and back-end programming. My interest lies in creating innovative and functional digital experiences. Committed to my professional knowledge, I am constantly practicing and tackling problems with analysis and determination. Knowledge of tools and languages such as: HTML, CSS, JAVASCRIPT, PYTHON, C++, MONGODB, GIT</p>
+<p align="center">
+I'm Juan David, a Systems Engineering student passionate about software development and technology. I enjoy building projects that allow me to strengthen both my technical and problem-solving skills while exploring different areas of computer science.
+<br><br>
+Currently, I'm expanding my knowledge through personal and academic projects, continuously learning new technologies, improving my programming skills, and embracing challenges that help me grow as a developer.
+</p>
 
 ###
-
+## 💻 Technologies I've worked with
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
   <img width="5" />
@@ -49,7 +59,24 @@
 </div>
 
 ###
+###
+## 👨‍💻 About Me
 
+- 🎓 Systems Engineering student.
+- 🌱 Always learning new technologies and best practices.
+- 💡 Interested in software development, system design, and problem solving.
+- 🚀 I enjoy building projects that help me improve as a developer.
+- 📚 Constantly exploring different areas of software engineering.
+###
+###
+## 🎯 Current Goals
+
+- Build projects that solve real-world problems.
+- Improve my software architecture and development skills.
+- Learn modern technologies and development practices.
+- Continue growing through personal and academic projects.
+###
+> "Always curious. Always building. Always learning."
 <br clear="both">
 
 <div align="center">
@@ -58,10 +85,20 @@
 </div>
 
 ###
+## 🟨 Contribution Graph
+<p align="center">
 
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=ju4ndrc&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ju4ndrc&show_icons=true&locale=en&layout=compact" alt="ju4ndrc" /></p>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ju4ndrc&layout=compact&theme=github_dark&hide_border=true"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ju4ndrc&show_icons=true&locale=en" alt="ju4ndrc" /></p>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ju4ndrc&" alt="ju4ndrc" /></p>
+<p align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=ju4ndrc&theme=github-dark&hide_border=true"/>
+
+</p>
