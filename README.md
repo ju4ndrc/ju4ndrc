@@ -106,3 +106,11 @@ Currently, I'm expanding my knowledge through personal and academic projects, co
     alt="GitHub Streak"
   />
 </p>
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ju4ndrc/ju4ndrc/output/pacman-contribution-graph.svg"
+    alt="Pacman Contribution Graph"
+  />
+</p>
