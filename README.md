@@ -85,21 +85,7 @@ Currently, I'm expanding my knowledge through personal and academic projects, co
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ju4ndrc&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub Stats"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ju4ndrc&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
+<p align="space-between">
   <img
     height="180"
     src="https://streak-stats.demolab.com?user=ju4ndrc&theme=github-dark&hide_border=true"
